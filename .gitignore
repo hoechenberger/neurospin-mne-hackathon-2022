@@ -1,0 +1,7 @@
+bids_data/
+logs/
+pogs_meg/
+trans/
+meg_conf/
+__pycache__/
+.DS_Store
