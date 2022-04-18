@@ -6,3 +6,6 @@ trans/
 meg_conf/
 __pycache__/
 .DS_Store
+lb_analysis_sparse/
+*-checkpoint.ipynb
+*-checkpoint.py
